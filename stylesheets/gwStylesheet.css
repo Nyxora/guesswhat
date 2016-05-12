@@ -84,10 +84,6 @@ canvas {
   height: 100%;
 }
 
-.gwCanvas {
-  background: white;
-  border: 5px solid #233140;
-}
 
 .sticker {
   max-width: 100px;
